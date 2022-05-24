@@ -53,7 +53,7 @@ body{
     color: whitesmoke;  
 }
 
-.title{
+.title, .description{
     text-align: center;
 }
 
@@ -82,4 +82,13 @@ body{
 
 .tools2{
     flex: 1;
+    
 }
+
+.reddot {
+    height: 15px;
+    width: 15px;
+    background-color: rgb(253, 8, 8);
+    border-radius: 50%;
+    display: inline-block;
+  }
