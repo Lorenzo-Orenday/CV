@@ -54,10 +54,10 @@ body{
 }
 
 .title, .description{
-    text-align: center;
+    text-align: justify;
 }
 
-.line{
+.line, .title{
     text-align: center;
     width: 75%;
 }
